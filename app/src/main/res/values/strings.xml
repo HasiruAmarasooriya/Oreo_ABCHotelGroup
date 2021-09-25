@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">ABSHotelGroup</string>
+    <string name="tvName">Room Packages</string>
+    <string name="btnPackage1">Full Board</string>
+    <string name="btnPackage2">Half Board</string>
+    <string name="btnOurdetails">Our Details</string>
+    <string name="tvSelectpackage">Full Board</string>
+    <string name="btnBookNow">Book Now</string>
+    <string name="tvFoodandDrink">Food and Drink</string>
+    <string name="tvfood">Breakfast,Lunch,Dinner</string>
+    <string name="tvFacilities">Facilities</string>
+    <string name="tvFacilitiDetails">Free Wifi\nAir Conditioning\nRestaurant\nBreakfast in the room\nFilm Hall\nCar hire\n</string>
+    <string name="tvPrice1">Price</string>
+    <string name="tvpriceDetails">Package Price= 50$(1 Room 1 Day)</string>
+    <string name="tvPrice3">Pay at the property</string>
+    <string name="tvselectpackage1">Half Board</string>
+    <string name="textview5">Breakfast and Dinner</string>
+    <string name="tvFacilitidetails2">Restaurant\nBreakfast in the room\nFilm Hall\nCar hire\n</string>
+    <string name="tvBookingForm">Booking Form</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="btnRegister">Register</string>
+    <string name="AlreadyHaveAccount">Already Have an Account?</string>
+    <string name="Forgotpassword">Forgot Password</string>
+    <string name="btnlogin">Login</string>
+    <string name="btn_view_feed">View Feed</string>
+    <string name="btnGoogle">Google</string>
+    <string name="btnFacebook">Facebook</string>
+    <string name="tvBookingDetails">Room Booking Details</string>
+    <string name="tvPrice">Price</string>
+    <string name="tvpricedetails">Package Price= 90$(1 Room 1 Day)</string>
+    <string name="tvPrice2">Pay at the property</string>
+    <string name="tvName3">Welcome to Our Hotel</string>
+    <string name="btnPackage3">Vehicle Packages</string>
+    <string name="btnFeedback">Feedback</string>
+    <string name="btnUpdateBooking">Update Booking</string>
+    <string name="btnCancelBooking">Cancel Booking</string>
+    <string name="tvUserName">User Name</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvNIC">NIC</string>
+    <string name="tvDate">Date</string>
+    <string name="ttvNumberOdRooms">Number Of Rooms</string>
+    <string name="tvPackageType">Package Type</string>
+    <string name="btnBooking">Booking</string>
+    <string name="tvConfirmBooking">Confirm Room Booking</string>
+    <string name="tvmessage">Dear Customer, Your Room Booking is Successful.</string>
+    <string name="tvConfirm2">You can update or Cancel Your Room Booking</string>
+    <string name="tvConfirmVehicleBooking">Confirm Vehicle Booking</string>
+    <string name="tvMessage2">Dear Customer , Your Vehicle Booking Is Succcessful.</string>
+    <string name="tvConfirm3"> You can Update or Cancel Your Vehicle Booking</string>
+    <string name="tvVehicleBookingForm">Vehicle Booking Form</string>
+    <string name="tvduration">Duration</string>
+    <string name="tvVehicleType">Vehicle Type</string>
+    <string name="tvBus">Bus Package</string>
+    <string name="tvType">Types</string>
+    <string name="tvType1">Toyota\n Leyland</string>
+    <string name="tvFaciliti3">30 Seats per bus\n Air Conditioning\nFree Wifi</string>
+    <string name="tvPacPrice">$15 Per day</string>
+    <string name="tvCar">Car Package</string>
+    <string name="tvType4">Toyota\nNissan</string>
+    <string name="tvfaci">5 Seats per car\nAir conditioning\nFree Wifi</string>
+    <string name="carprice">$ 5 per day</string>
+    <string name="tvVan">Van Package</string>
+    <string name="vantype">Toyota\nNissan</string>
+    <string name="vanfaci">10 Seats per van\nAir Conditioning\nFree wifi</string>
+    <string name="vanprice">$ 8 per day</string>
+
+
+    <string name="tvfeedback">Feedback</string>
+    <string name="feedmsg">Dinuka,\nI Look Forward to commenting on this.This is a really good hotel.</string>
+    <string name="btnFeedback1">SEND FEEDBACK</string>
+    <string name="btncancelfeedback">DELETE FEEDBACK</string>
+    <string name="btn_upd_feed">EDIT FEEDBACK</string>
+    <string name="aboutus">About Us</string>
+    <string name="AboutDetails">Hotel Name</string>
+    <string name="Branch">Branch</string>
+    <string name="Visit">Visit</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="Phone">Phone</string>
+    <string name="Email">Email</string>
+    <string name="car">CAR</string>
+    <string name="Van">VAN</string>
+    <string name="bus">BUS</string>
+    <string name="VehiclePackages">Vehicle Packages</string>
+    <string name="btnSingIn">Sing In</string>
+
+
+    //Menu Resources
+    <string name="mnu_room">Rooms Booking</string>
+    <string name="mnu_veh">Vehicle Booking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtSize">50sp</dimen>
+    <dimen name="btnSize">351dp</dimen>
+    <dimen name="btnSizeH">84dp</dimen>
+    <dimen name="txtPackage1Size">45sp</dimen>
+    <dimen name="txtsize2">30sp</dimen>
+
+</resources>
